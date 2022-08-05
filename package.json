@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test to see if project generator works",
   "main": "script.js",
-  "bin": "./bin/main.js"
+  "bin": "./bin/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
