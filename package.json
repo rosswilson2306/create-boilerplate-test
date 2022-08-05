@@ -1,0 +1,20 @@
+{
+  "name": "@rosswilson23/create-boilerplate-test",
+  "version": "1.0.0",
+  "description": "Test to see if project generator works",
+  "main": "script.js",
+  "bin": "./bin/main.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosswilson2306/create-boilerplate-test.git"
+  },
+  "author": "Ross Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosswilson2306/create-boilerplate-test/issues"
+  },
+  "homepage": "https://github.com/rosswilson2306/create-boilerplate-test#readme"
+}
